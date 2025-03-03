@@ -1,3 +1,3 @@
 # Open School Bell
 
-![Logo](./logo.png)
+![Logo](../logo.png)
