@@ -9,7 +9,7 @@
     <tr>
       <td><a href="https://github.com/Open-School-Bell/controller">Controller</a></td>
       <td><a href="https://github.com/Open-School-Bell/sounder">Sounder</a></td>
-      <td><a href="https://github.com/Open-School-Bell/desktop-alert">Desktop Alert</a></td>
+      <td><a href="https://github.com/Open-School-Bell/action-button">Action Button</a></td>
       <td><a href="https://github.com/Open-School-Bell/docs">Docs</a></td>
     </tr>
   </tbody>
